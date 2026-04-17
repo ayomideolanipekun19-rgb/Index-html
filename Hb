@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RMS Auto Care | Houston Auto Repair</title>
+<style>
+body {font-family: Arial, sans-serif; margin:0; line-height:1.6;}
+header {background:#111; color:#fff; padding:20px; text-align:center;}
+nav {background:#e63946; padding:10px; text-align:center;}
+nav a {color:#fff; margin:0 10px; text-decoration:none; font-weight:bold;}
+.hero {background:#222; color:#fff; padding:60px 20px; text-align:center;}
+.section {padding:40px 20px; max-width:1000px; margin:auto;}
+.btn {background:#e63946; color:#fff; padding:12px 20px; text-decoration:none; display:inline-block; margin-top:10px;}
+.grid {display:grid; grid-template-columns:repeat(auto-fit, minmax(250px,1fr)); gap:20px;}
+.card {border:1px solid #ddd; padding:20px; border-radius:8px;}
+footer {background:#111; color:#fff; text-align:center; padding:20px;}
+</style>
+</head>
+<body><header>
+<h1>RMS Auto Care</h1>
+<p>Serving Houston Since 1980</p>
+<p><strong>Call: 713-529-5855</strong></p>
+</header><nav>
+<a href="#services">Services</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav><section class="hero">
+<h2>Dependable & Trustworthy Auto Repair</h2>
+<p>Yesterday's Service. Today's Technology.</p>
+<a href="#contact" class="btn">Make An Appointment</a>
+</section><section class="section" id="about">
+<h2>Welcome to RMS Auto Care</h2>
+<p>We provide expert auto repair and maintenance services in Houston, Texas. Our ASE-certified technicians handle everything from routine maintenance to major engine repairs.</p>
+<p>Enjoy peace of mind with our <strong>3 Year / 36K Mile Nationwide Warranty</strong>.</p>
+</section><section class="section" id="services">
+<h2>Our Services</h2>
+<div class="grid">
+<div class="card"><h3>Brake Repair</h3><p>Safe and reliable braking system repairs.</p></div>
+<div class="card"><h3>Engine Repair</h3><p>Diagnostics and complete engine services.</p></div>
+<div class="card"><h3>AC & Heating</h3><p>Stay cool in Houston heat with expert AC repair.</p></div>
+<div class="card"><h3>Battery Services</h3><p>Inspection and replacement services.</p></div>
+<div class="card"><h3>Suspension</h3><p>Smooth and stable driving experience.</p></div>
+<div class="card"><h3>Oil Changes</h3><p>Routine maintenance to keep your car running.</p></div>
+</div>
+</section><section class="section">
+<h2>Why Choose Us?</h2>
+<ul>
+<li>ASE Certified Technicians</li>
+<li>Free Shuttle Service</li>
+<li>Same Day Service Available</li>
+<li>Family Owned for 40+ Years</li>
+<li>Financing Options Available</li>
+</ul>
+</section><section class="section" id="contact">
+<h2>Contact Us</h2>
+<p><strong>Phone:</strong> 713-529-5855</p>
+<p><strong>Location:</strong> 1759 Westheimer Rd, Houston, TX</p>
+<p><strong>Hours:</strong></p>
+<ul>
+<li>Mon - Fri: 7:00am - 6:00pm</li>
+<li>Sat: 8:00am - 4:00pm</li>
+<li>Sun: Closed</li>
+</ul>
+<a href="#" class="btn">Book Appointment</a>
+</section><footer>
+<p>© 2026 RMS Auto Care | All Rights Reserved</p>
+</footer></body>
+</html>
